@@ -1,0 +1,32 @@
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\bin\Debug\net8.0\ShoppingHub.BLL.deps.json
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\bin\Debug\net8.0\ShoppingHub.BLL.dll
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\bin\Debug\net8.0\ShoppingHub.BLL.pdb
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\bin\Debug\net8.0\ShoppingHub.DAL.dll
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\bin\Debug\net8.0\ShoppingHub.DAL.pdb
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.sourcelink.json
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\Shopping.669D3918.Up2Date
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.dll
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\refint\ShoppingHub.BLL.dll
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.pdb
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ref\ShoppingHub.BLL.dll
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\bin\Debug\net8.0\ShoppingHub.BLL.deps.json
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\bin\Debug\net8.0\ShoppingHub.BLL.dll
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\bin\Debug\net8.0\ShoppingHub.BLL.pdb
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\bin\Debug\net8.0\ShoppingHub.DAL.dll
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\bin\Debug\net8.0\ShoppingHub.DAL.pdb
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.sourcelink.json
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\Shopping.669D3918.Up2Date
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.dll
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\refint\ShoppingHub.BLL.dll
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ShoppingHub.BLL.pdb
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.BLL\obj\Debug\net8.0\ref\ShoppingHub.BLL.dll

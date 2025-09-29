@@ -1,0 +1,363 @@
+﻿@model ShoppingHub.BLL.ModelVm.ProductDetailsVM
+
+@{
+    ViewData["Title"] = "Product Details";
+    Layout = "~/Views/Shared/_NewLayout.cshtml";
+    var isRtl = System.Threading.Thread.CurrentThread.CurrentUICulture.TwoLetterISOLanguageName == "ar";
+}
+
+<style>
+    /* Global Variables (Match GetAllProducts) */
+    :root {
+        --primary-color: #667eea; /* Light Purple/Blue */
+        --secondary-color: #764ba2; /* Darker Purple */
+        --price-color: #e53935; /* Strong Red for Price */
+        --text-dark: #333;
+        --text-muted: #6c757d;
+        --white: #ffffff;
+        --light-bg: #f8f9fa;
+        --shadow-elevation: 0 12px 30px rgba(0, 0, 0, 0.1);
+    }
+    
+    body {
+        background-color: var(--light-bg);
+    }
+
+    /* Main Product Details Card */
+    .details-card-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        border-radius: 16px;
+        background-color: var(--white);
+        box-shadow: var(--shadow-elevation);
+        overflow: hidden;
+    }
+    
+    .details-card-content {
+        padding: 40px;
+    }
+
+    /* 1. Product Image Section (FIXED) */
+    .product-image-section {
+        background-color: var(--light-bg); /* Use light background for clean image space */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        /* Separator line for non-RTL */
+        border-right: 1px solid #eee; 
+    }
+    html[dir='rtl'] .product-image-section {
+        border-right: none;
+        border-left: 1px solid #eee;
+    }
+
+    .image-wrapper-box {
+        width: 100%;
+        height: 550px; /* FIXED HEIGHT: Ensures uniform image area */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        padding: 1rem;
+    }
+
+    .image-wrapper-box img {
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain; /* CRUCIAL: Ensures the whole image is visible */
+        border-radius: 8px;
+        transition: transform 0.3s;
+    }
+    
+    .details-card-container:hover .image-wrapper-box img {
+        transform: scale(1.02);
+    }
+
+    /* 2. Product Info Section */
+    .product-info-section {
+        padding: 2.5rem;
+        color: var(--text-dark);
+    }
+
+    .product-name {
+        font-size: 3rem;
+        font-weight: 800;
+        color: var(--secondary-color);
+        line-height: 1.2;
+        margin-bottom: 0.5rem;
+    }
+
+    .product-price {
+        font-size: 2.5rem;
+        font-weight: 800;
+        color: var(--price-color);
+        margin-bottom: 1rem;
+    }
+
+    /* Rating Display */
+    .rating-display {
+        font-size: 1.1rem;
+        font-weight: 600;
+        margin-bottom: 1.5rem;
+        color: var(--text-muted);
+    }
+    .rating-display .fas, .rating-display .far {
+        font-size: 1.4rem;
+        color: gold;
+        margin-right: 2px;
+    }
+    .product-description {
+        line-height: 1.8;
+        font-size: 1.1rem;
+        color: var(--text-dark);
+        border-top: 1px solid #eee;
+        padding-top: 1.5rem;
+    }
+    
+    /* 3. Action Buttons (Cleaned up) */
+    .action-buttons-group {
+        margin-top: 3rem;
+        display: flex;
+        flex-direction: column; /* Stack buttons vertically */
+        gap: 1rem;
+        width: 100%;
+    }
+
+    .quantity-group {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 1rem;
+    }
+
+    .quantity-input {
+        width: 80px;
+        text-align: center;
+        font-weight: 600;
+        border-color: var(--primary-color);
+        border-radius: 8px;
+    }
+
+    .btn-add-to-cart-lg {
+        background-color: var(--primary-color);
+        color: var(--white);
+        font-size: 1.2rem;
+        font-weight: 700;
+        padding: 0.75rem 2rem;
+        border-radius: 8px;
+        transition: background-color 0.3s, transform 0.2s;
+        width: 100%;
+    }
+    .btn-add-to-cart-lg:hover {
+        background-color: var(--secondary-color);
+        transform: translateY(-1px);
+    }
+
+    .btn-back {
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: var(--text-dark);
+        border: 1px solid var(--text-muted);
+        border-radius: 8px;
+        transition: background-color 0.3s;
+        width: 100%;
+    }
+    .btn-back:hover {
+        background-color: var(--light-bg);
+    }
+
+    /* 4. Reviews/Rating Sections (Uniform Design) */
+    .review-section-card {
+        margin-top: 3rem;
+        background-color: var(--white);
+        border-radius: 12px;
+        box-shadow: var(--shadow-elevation);
+        overflow: hidden;
+    }
+    .review-section-card .card-header {
+        background-color: var(--secondary-color);
+        color: var(--white);
+        font-size: 1.3rem;
+        font-weight: 700;
+    }
+    .review-item {
+        border-bottom: 1px dashed #ddd;
+        padding-bottom: 1rem;
+        margin-bottom: 1rem;
+    }
+    .review-item:last-child {
+        border-bottom: none;
+    }
+    .review-item .text-warning i {
+        font-size: 1rem;
+    }
+    .rating-form-card .card-header {
+        background-color: var(--primary-color) !important;
+    }
+
+
+    /* Responsive adjustments */
+    @@media (max-width: 992px) {
+        .product-image-section {
+            border-right: none;
+            border-bottom: 1px solid #eee;
+        }
+        .product-info-section {
+            padding: 2rem;
+        }
+        .product-name {
+            font-size: 2.2rem;
+        }
+        .product-price {
+            font-size: 2rem;
+        }
+        .image-wrapper-box {
+            height: 400px;
+        }
+    }
+</style>
+
+
+<div class="container my-5">
+    <div class="row details-card-container">
+        
+        <div class="col-lg-6 product-image-section">
+            <div class="image-wrapper-box">
+                <img src="@Url.Content(Model.ImagePath)"
+                     class="img-fluid"
+                     alt="@(isRtl ? Model.ProductNameAR : Model.ProductName)" />
+            </div>
+        </div>
+
+        <div class="col-lg-6 product-info-section">
+            
+            <h1 class="product-name" style="text-align:@(isRtl ? "right" : "left");">
+                @(isRtl ? Model.ProductNameAR : Model.ProductName)
+            </h1>
+
+            <h2 class="product-price">
+                $@Model.Price
+            </h2>
+
+            <div class="rating-display d-flex align-items-center">
+                <span class="me-2"><strong>@SharedLocalizer["Rating"]:</strong></span>
+                @if (Model.AverageRating.HasValue && Model.AverageRating.Value > 0)
+                {
+                    <span class="text-warning me-2">
+                        @for (int i = 1; i <= 5; i++)
+                        {
+                            var rate = Model.AverageRating.Value;
+                            if (i <= Math.Floor(rate))
+                            {
+                                <i class="fas fa-star"></i>
+                            }
+                            else if (i - rate <= 0.5 && i > Math.Floor(rate))
+                            {
+                                <i class="fas fa-star-half-alt"></i>
+                            }
+                            else
+                            {
+                                <i class="far fa-star"></i>
+                            }
+                        }
+                    </span>
+                    <span class="rating-text">(@Model.AverageRating.Value.ToString("0.0"))</span>
+                }
+                else
+                {
+                    <span class="text-muted">@SharedLocalizer["Not rated yet"]</span>
+                }
+            </div>
+
+            <div class="product-description" style="text-align:@(isRtl ? "right" : "left");">
+                <p>@(isRtl ? Model.DescriptionAR : Model.Description)</p>
+            </div>
+
+            <div class="action-buttons-group">
+                <form asp-action="AddToCart" asp-controller="Cart" method="post" class="d-flex flex-column gap-3">
+                    <input type="hidden" name="ProductID" value="@Model.ProductID" />
+                    
+                    <div class="quantity-group">
+                        <label for="Quantity" class="form-label mb-0 fw-bold" style="min-width: 80px;">
+                            @SharedLocalizer["Quantity"]:
+                        </label>
+                        <input type="number" id="Quantity" name="Quantity" value="1" min="1" class="form-control quantity-input" />
+                    </div>
+                    
+                    <button type="submit" class="btn btn-add-to-cart-lg">
+                        <i class="fas fa-cart-plus me-2"></i> @SharedLocalizer["Add to Cart"]
+                    </button>
+                </form>
+
+                <a asp-action="GetAllProducts" class="btn btn-back">
+                    <i class="fas fa-arrow-left me-2"></i> @SharedLocalizer["Back to Products"]
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="card review-section-card">
+        <div class="card-header">
+            <i class="fas fa-comments me-2"></i> @SharedLocalizer["Customer Reviews"]
+        </div>
+        <div class="card-body">
+            @if (Model.Ratings != null && Model.Ratings.Any())
+            {
+                @foreach (var r in Model.Ratings)
+                {
+                    <div class="review-item">
+                        <div class="d-flex justify-content-between align-items-center">
+                            <strong>@r.UserName</strong>
+                            <div class="text-warning">
+                                @for (int i = 1; i <= 5; i++)
+                                {
+                                    @if (i <= r.Rate)
+                                    {
+                                        <i class="fas fa-star"></i>
+                                    }
+                                    else
+                                    {
+                                        <i class="far fa-star"></i>
+                                    }
+                                }
+                            </div>
+                        </div>
+                        <p class="mt-1 text-muted">@r.Comment</p>
+                    </div>
+                }
+            }
+            else
+            {
+                <p class="text-muted">@SharedLocalizer["No reviews yet."]</p>
+            }
+        </div>
+    </div>
+
+    @if (Model.CanRate)
+    {
+        <div class="card review-section-card rating-form-card">
+            <div class="card-header">
+                <i class="fas fa-star me-2"></i> @SharedLocalizer["Rate this Product"]
+            </div>
+            <div class="card-body">
+                <form asp-action="RateProduct" method="post">
+                    <input type="hidden" name="productId" value="@Model.ProductID" />
+
+                    <div class="mb-3">
+                        <label for="rate" class="form-label">@SharedLocalizer["Your Rating"] (1–5)</label>
+                        <input type="number" name="rate" min="1" max="5" class="form-control" required />
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="comment" class="form-label">@SharedLocalizer["Comment"]</label>
+                        <textarea name="comment" rows="3" class="form-control"></textarea>
+                    </div>
+
+                    <button type="submit" class="btn btn-success">
+                        <i class="fas fa-paper-plane me-2"></i> @SharedLocalizer["Submit Rating"]
+                    </button>
+                </form>
+            </div>
+        </div>
+    }
+</div>

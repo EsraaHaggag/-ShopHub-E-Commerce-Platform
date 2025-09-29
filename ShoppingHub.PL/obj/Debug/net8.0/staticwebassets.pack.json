@@ -1,0 +1,513 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShoppingHub.PL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShoppingHub.PL.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\0ed2355e-de99-43a0-9e7e-a451217b80b2Capture111.JPG",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\0ed2355e-de99-43a0-9e7e-a451217b80b2Capture111.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\16da3591-0749-40ca-bb12-84c1ebacb114Screenshot 2025-08-03 073856.png",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\16da3591-0749-40ca-bb12-84c1ebacb114Screenshot 2025-08-03 073856.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\174c8dd4-5f36-4f92-883f-eb7d1849f766FC Barcelona Away 2025-26.jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\174c8dd4-5f36-4f92-883f-eb7d1849f766FC Barcelona Away 2025-26.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\21a10fa1-4720-41fa-8a9b-ed826e845a8aScreenshot 2025-04-18 000855.png",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\21a10fa1-4720-41fa-8a9b-ed826e845a8aScreenshot 2025-04-18 000855.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\2e2567ac-9613-43ec-9199-9c492e75e96bScreenshot 2025-08-03 073856.png",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\2e2567ac-9613-43ec-9199-9c492e75e96bScreenshot 2025-08-03 073856.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\35115b73-e211-451d-baab-5fa83c9ca33c71e2e4e1-5155-42d8-b1c8-01928c159b81.jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\35115b73-e211-451d-baab-5fa83c9ca33c71e2e4e1-5155-42d8-b1c8-01928c159b81.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\3740803d-803e-4951-9ea7-f51094429c2biPhone 17 Pro Max (Rumored).jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\3740803d-803e-4951-9ea7-f51094429c2biPhone 17 Pro Max (Rumored).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\3a7c9019-148f-4ef2-91ce-aa37aa93439eScreenshot 2025-08-03 073856.png",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\3a7c9019-148f-4ef2-91ce-aa37aa93439eScreenshot 2025-08-03 073856.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\4716c24d-366c-40c9-898f-d1e717cae5d9download (4).jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\4716c24d-366c-40c9-898f-d1e717cae5d9download (4).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\4992fa77-1dac-45c2-8c00-9054bc59ae77Sneakers.avif",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\4992fa77-1dac-45c2-8c00-9054bc59ae77Sneakers.avif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\49d697c1-1f8a-42b1-82f2-b706acf2e042Love this fantasy series from George Martin_.jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\49d697c1-1f8a-42b1-82f2-b706acf2e042Love this fantasy series from George Martin_.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\4b43918d-454a-49b7-a6a4-a1bbf3199d32Screenshot 2025-08-03 073856.png",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\4b43918d-454a-49b7-a6a4-a1bbf3199d32Screenshot 2025-08-03 073856.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\4e50eb4e-15fe-47aa-b5d8-31be336836a4Hoody.webp",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\4e50eb4e-15fe-47aa-b5d8-31be336836a4Hoody.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\503663f1-9a7a-4a52-90a3-62ba8f6e7019Screenshot 2025-08-03 073856.png",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\503663f1-9a7a-4a52-90a3-62ba8f6e7019Screenshot 2025-08-03 073856.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\5b5ba372-3a5b-4169-aa44-39fc277d42da3.JPG",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\5b5ba372-3a5b-4169-aa44-39fc277d42da3.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\5f74e856-36e1-49de-be2f-27764249f83dAl Ahly \uD83C\uDDEA\uD83C\uDDEC.jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\5f74e856-36e1-49de-be2f-27764249f83dAl Ahly \uD83C\uDDEA\uD83C\uDDEC.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\665d5f52-a5ee-45ec-bb27-62a9f7b1ed5cComfy.webp",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\665d5f52-a5ee-45ec-bb27-62a9f7b1ed5cComfy.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\68d08933-6dba-45bb-9c1c-9b09c09c53a13.JPG",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\68d08933-6dba-45bb-9c1c-9b09c09c53a13.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\69b52ca1-9373-45bf-88cc-5f68455db224Screenshot 2025-09-25 232628.png",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\69b52ca1-9373-45bf-88cc-5f68455db224Screenshot 2025-09-25 232628.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\6e6fe2b9-a367-4c11-8b8f-b745ff1a6cbaCoat.jpg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\6e6fe2b9-a367-4c11-8b8f-b745ff1a6cbaCoat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\78c2baf2-5373-4360-afae-fd9e658ccf70Al Ahly \uD83C\uDDEA\uD83C\uDDEC (1).jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\78c2baf2-5373-4360-afae-fd9e658ccf70Al Ahly \uD83C\uDDEA\uD83C\uDDEC (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\8195f010-48b5-4062-9e35-536f277150e8Apple AirPods Max - Space Grey.jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\8195f010-48b5-4062-9e35-536f277150e8Apple AirPods Max - Space Grey.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\84c2e8d4-7383-4bf4-840e-790fa1a1ae23Screenshot 2025-08-04 193552.png",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\84c2e8d4-7383-4bf4-840e-790fa1a1ae23Screenshot 2025-08-04 193552.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\889b2172-3472-48b4-a02b-4b554415d53eStay Comfortable and Stylish with Our Trendy Men’s….jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\889b2172-3472-48b4-a02b-4b554415d53eStay Comfortable and Stylish with Our Trendy Men’s….jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\920e32e7-7e90-4367-bed4-0731ec55989dRealme Note 60x-Smart Phone 3GB+64GB Verte.jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\920e32e7-7e90-4367-bed4-0731ec55989dRealme Note 60x-Smart Phone 3GB+64GB Verte.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\9c9bd376-3ccb-4ceb-b990-827f8635027edownload (5).jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\9c9bd376-3ccb-4ceb-b990-827f8635027edownload (5).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\9d95ed14-8660-4f6c-9e56-e3f901718592Screenshot 2025-09-25 232628.png",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\9d95ed14-8660-4f6c-9e56-e3f901718592Screenshot 2025-09-25 232628.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\a54b6a2e-8737-4d98-b315-df5092176b0fGalaxy S24 FE.jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\a54b6a2e-8737-4d98-b315-df5092176b0fGalaxy S24 FE.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\a562a076-e21f-486d-9dba-2ed1f0593493Screenshot 2025-08-03 073856.png",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\a562a076-e21f-486d-9dba-2ed1f0593493Screenshot 2025-08-03 073856.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\b337c711-c2af-467a-a95b-e3388c5293a3will start reading middle of august.jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\b337c711-c2af-467a-a95b-e3388c5293a3will start reading middle of august.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\b5d9cc38-4764-4342-ade9-7c16a4d3b023Capture111.JPG",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\b5d9cc38-4764-4342-ade9-7c16a4d3b023Capture111.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\bdd6d81b-27f7-4189-b9ea-55dcdb451b4aSo different, exciting and the unexpected always happens_.jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\bdd6d81b-27f7-4189-b9ea-55dcdb451b4aSo different, exciting and the unexpected always happens_.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\c3eb38b3-dded-480e-a66c-7e072ae8b668FC Barcelona 2025_26 Match Home.jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\c3eb38b3-dded-480e-a66c-7e072ae8b668FC Barcelona 2025_26 Match Home.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\c420f12d-6c60-4fc9-9378-ecffab1573dbf23e0bde-07bb-4b43-b463-4bb161c0d051.jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\c420f12d-6c60-4fc9-9378-ecffab1573dbf23e0bde-07bb-4b43-b463-4bb161c0d051.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\d7251d32-1bdd-43f5-ab5f-9f49701fa6d2Screenshot 2025-04-18 193303.png",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\d7251d32-1bdd-43f5-ab5f-9f49701fa6d2Screenshot 2025-04-18 193303.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\dd7ec855-36ce-4262-8877-5f96e87a61c7_A Storm of Swords _ Steel and Snow_ Book 3, Part 1 in the series - done_.jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\dd7ec855-36ce-4262-8877-5f96e87a61c7_A Storm of Swords _ Steel and Snow_ Book 3, Part 1 in the series - done_.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\dde58285-e767-4b41-8c30-998ecf40f199Capture111.JPG",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\dde58285-e767-4b41-8c30-998ecf40f199Capture111.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\e925840b-27f5-4599-a07a-f09b1b16379bCapture111.JPG",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\e925840b-27f5-4599-a07a-f09b1b16379bCapture111.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\e9968141-0bfb-484b-918a-65c7cfe076ceScreenshot 2025-08-03 073856.png",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\e9968141-0bfb-484b-918a-65c7cfe076ceScreenshot 2025-08-03 073856.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\ed1adfb1-0da4-443a-bd12-6ed4e45b2546Capture111.JPG",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\ed1adfb1-0da4-443a-bd12-6ed4e45b2546Capture111.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\fbe92ad2-66de-46dd-bbe6-8ada446f9074Jaket.webp",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\fbe92ad2-66de-46dd-bbe6-8ada446f9074Jaket.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\fc06c4d9-4985-43cd-b4a0-eb8e90a0cd95Canon EOS 7D Mark II.jpeg",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\fc06c4d9-4985-43cd-b4a0-eb8e90a0cd95Canon EOS 7D Mark II.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\Products\\fcc3ac90-ad3a-48a1-97a7-0a29351353d3Capture111.JPG",
+      "PackagePath": "staticwebassets\\Files\\images\\Products\\fcc3ac90-ad3a-48a1-97a7-0a29351353d3Capture111.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\0b320f4f-91d4-4058-b0a0-fd830c4a78ef465935730_3426268891011076_8859892236537599523_n.jpg",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\0b320f4f-91d4-4058-b0a0-fd830c4a78ef465935730_3426268891011076_8859892236537599523_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\0bd79b16-7db5-4b66-80a4-e5ba6ce09977logo.png",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\0bd79b16-7db5-4b66-80a4-e5ba6ce09977logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\1be0980a-681a-4c4c-863b-361532f09a83465935730_3426268891011076_8859892236537599523_n.jpg",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\1be0980a-681a-4c4c-863b-361532f09a83465935730_3426268891011076_8859892236537599523_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\233c7ffc-f866-4a19-86c8-1094d4ec58c3logo.png",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\233c7ffc-f866-4a19-86c8-1094d4ec58c3logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\2eafe7ad-b816-4c37-87c1-f42850154bc12023-11-06 (2).png",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\2eafe7ad-b816-4c37-87c1-f42850154bc12023-11-06 (2).png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\43c9fc60-0b01-41a6-acf6-750c141cf4c6logo.png",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\43c9fc60-0b01-41a6-acf6-750c141cf4c6logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\58a8e665-8f16-4059-89c6-0470ffdcc4e4logo.png",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\58a8e665-8f16-4059-89c6-0470ffdcc4e4logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\5e60dd4e-b0c0-4f65-b864-5379032b7c98465935730_3426268891011076_8859892236537599523_n.jpg",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\5e60dd4e-b0c0-4f65-b864-5379032b7c98465935730_3426268891011076_8859892236537599523_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\70346ab3-c4c3-4fc4-84b0-16fd1b7535a5465935730_3426268891011076_8859892236537599523_n.jpg",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\70346ab3-c4c3-4fc4-84b0-16fd1b7535a5465935730_3426268891011076_8859892236537599523_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\7ab0e743-0c0a-4c14-8314-184f75c5ebce2023-11-29.png",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\7ab0e743-0c0a-4c14-8314-184f75c5ebce2023-11-29.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\89149d22-8be7-44f4-85d8-819897181137Screenshot 2025-06-28 202408.png",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\89149d22-8be7-44f4-85d8-819897181137Screenshot 2025-06-28 202408.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\94b89443-3840-4da3-99af-d39666ff7136Screenshot 2024-12-27 225124.png",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\94b89443-3840-4da3-99af-d39666ff7136Screenshot 2024-12-27 225124.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\aa63e1ba-820d-45d3-acc0-79ac7d9e274e2023-12-01.png",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\aa63e1ba-820d-45d3-acc0-79ac7d9e274e2023-12-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\ad48fa99-4e51-476e-8d76-68c5e3972086Screenshot 2024-12-27 225124.png",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\ad48fa99-4e51-476e-8d76-68c5e3972086Screenshot 2024-12-27 225124.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\c68398e7-97d0-44a0-aafb-4af80147b034logo.png",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\c68398e7-97d0-44a0-aafb-4af80147b034logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\images\\usersImages\\e7388158-1b9a-4fbf-ac40-ceafbdf912d9Screenshot 2024-06-07 131444.png",
+      "PackagePath": "staticwebassets\\Files\\images\\usersImages\\e7388158-1b9a-4fbf-ac40-ceafbdf912d9Screenshot 2024-06-07 131444.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\logo.png",
+      "PackagePath": "staticwebassets\\Files\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\Files\\product.jpg",
+      "PackagePath": "staticwebassets\\Files\\product.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\New folder (3)\\ShoppingHub\\ShoppingHub.PL\\wwwroot\\test.ico",
+      "PackagePath": "staticwebassets\\test.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShoppingHub.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShoppingHub.PL.props",
+      "PackagePath": "build\\ShoppingHub.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShoppingHub.PL.props",
+      "PackagePath": "buildMultiTargeting\\ShoppingHub.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShoppingHub.PL.props",
+      "PackagePath": "buildTransitive\\ShoppingHub.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

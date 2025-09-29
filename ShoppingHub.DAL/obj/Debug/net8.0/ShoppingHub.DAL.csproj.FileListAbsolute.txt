@@ -1,0 +1,30 @@
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.DAL\bin\Debug\net8.0\ShoppingHub.DAL.deps.json
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.DAL\bin\Debug\net8.0\ShoppingHub.DAL.runtimeconfig.json
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.DAL\bin\Debug\net8.0\ShoppingHub.DAL.dll
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.DAL\bin\Debug\net8.0\ShoppingHub.DAL.pdb
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.sourcelink.json
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.dll
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\refint\ShoppingHub.DAL.dll
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.pdb
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ProjectITI\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ref\ShoppingHub.DAL.dll
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.DAL\bin\Debug\net8.0\ShoppingHub.DAL.deps.json
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.DAL\bin\Debug\net8.0\ShoppingHub.DAL.runtimeconfig.json
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.DAL\bin\Debug\net8.0\ShoppingHub.DAL.dll
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.DAL\bin\Debug\net8.0\ShoppingHub.DAL.pdb
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.sourcelink.json
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.dll
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\refint\ShoppingHub.DAL.dll
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.pdb
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ShoppingHub.DAL.genruntimeconfig.cache
+C:\Users\Admin\Desktop\New folder (3)\ShoppingHub\ShoppingHub.DAL\obj\Debug\net8.0\ref\ShoppingHub.DAL.dll
