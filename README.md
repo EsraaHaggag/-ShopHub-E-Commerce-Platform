@@ -20,13 +20,13 @@ A bilingual (Arabic / English) e-commerce web application with role-based access
 
 The application follows a **3-Tier Architecture** to separate concerns and keep the code maintainable:
 
-┌────────────────────────────────────┐
-│ Presentation Layer (MVC) │ Controllers, Views
-├────────────────────────────────────┤
-│ Business Logic Layer (BLL) │ Services, Business Rules
-├────────────────────────────────────┤
-│ Data Access Layer (DAL) │ Data access, Entities
-└────────────────────────────────────┘
+| Tier | Responsibility |
+|---|---|
+| **Presentation Layer (MVC)** | Handles HTTP requests, controllers, and renders the views. Contains no business logic. |
+| **Business Logic Layer (BLL)** | Contains the application rules such as cart and order handling. |
+| **Data Access Layer (DAL)** | Responsible for all communication with the database. |
+
+**Request flow:** `Presentation → Business Logic → Data Access → Database`
 
 
 - **Presentation Layer:** handles HTTP requests and renders the views. Contains no business logic.
